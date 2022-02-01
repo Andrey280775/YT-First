@@ -1,1 +1,1 @@
-printf();
+printf("Some string");
